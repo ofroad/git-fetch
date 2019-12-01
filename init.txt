@@ -1,3 +1,4 @@
 init
 wh add
 wh add2
+my local add
